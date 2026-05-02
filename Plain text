@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的第一篇博客文章</title>
+</head>
+<body>
+  <h1>我的第一篇博客文章</h1>
+  <p>这是我用 GitHub Pages 发布的第一篇文章。</p>
+
+  <p>我计划用这个网站记录我的项目管理、产品设计、运动训练、滑雪、越野跑和个人成长系统。</p>
+
+  <p><a href="index.html">返回首页</a></p>
+</body>
+</html>
